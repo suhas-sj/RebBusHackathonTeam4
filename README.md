@@ -24,4 +24,4 @@ Worked on the Android Application development , backend code for storing the ima
 Worked on the Machine learning model and intergrating it with the Android application using flask APIs
 
 3)  Kunal Pathak , Arpitha T and Harshitha :
-Worked on the frontend of the web application to display the detected objects along with their tags using nodeJS               
+Worked on the frontend of the web application to display the detected objects along with their tags using nodeJS and React               
